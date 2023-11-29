@@ -1,5 +1,3 @@
-# 2022.06.17-Changed for building ViG model
-#            Huawei Technologies Co., Ltd. <foss@huawei.com>
 import math
 import torch
 from torch import nn
